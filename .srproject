@@ -7,3 +7,5 @@ use tabs: true
 		2-o:ptr
 			3-v:projectName
 				4-s:DemoClickerGame
+			3-v:mainScene
+				4-s:Scenes/main.scene
