@@ -1,2 +1,7 @@
 /Resources/Cache
 /Resources/Packed
+/Resources/CMakeLists.txt
+/Resources/Engine/SREngine.dll
+/Resources/Engine/SREngine.pdb
+/Resources/Samples/Samples.dll
+/Resources/Samples/Samples.pdb
